@@ -1,9 +1,5 @@
 # generate_captions
 
-A small command-line tool to auto-generate captions (SRT) for video/audio files using OpenAI Whisper.
-
-# generate_captions
-
 Simple command-line tool to auto-generate captions (SRT) for video/audio files using OpenAI Whisper.
 
 ## Requirements
