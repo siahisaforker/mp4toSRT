@@ -55,7 +55,7 @@ python generate_captions.py "path\to\folder"
 ## Notes
 
 - Transcription is compute-intensive; use smaller models for faster CPU runs.
-- On CPU you may see the warning: "FP16 is not supported on CPU; using FP32 instead" — this is expected.
+- On CPU you may see the warning: "FP16 is not supported on CPU; using FP32 instead", this is expected behavior.
 - To speed up transcription, use a GPU-enabled PyTorch build (see PyTorch install instructions).
 
 ---
